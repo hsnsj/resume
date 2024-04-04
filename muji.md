@@ -70,7 +70,7 @@ Served as a class representative and won many honorary titles
  1.The object is modeled, the mathematical formula is derived and verified in practice.
  2.Scour the data to extract useful data, and can be easily simulated.
  
-
+![test]()
 
 
 ## Hobby
