@@ -1,5 +1,5 @@
 # X resume
-![test](pic.jpg=5*5)
+![test](pic.jpg=1*1)
 ::: left
 
 icon:info 男/2003.10
