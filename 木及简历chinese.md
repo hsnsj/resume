@@ -34,7 +34,7 @@ icon:weixin 同手机号
 
 
 :::left
-**Anqiu No.1 Middle School**
+**安丘市第一中学**
 :::
 :::right
 **2019 - 2022**
