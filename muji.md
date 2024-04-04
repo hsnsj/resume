@@ -14,6 +14,7 @@ icon:weixin phone number
 
 [icon:github https://github.com/hsnsj](https://github.com/hua1995116)
 
+![Alt Text](resume/pic.jpg)
 
 :::
 
