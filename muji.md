@@ -3,7 +3,7 @@
 ::: left
 
 icon:info 男/2003.10
-
+![test](pic.jpg=10*10)
 icon:weixin phone number
 
 
@@ -14,7 +14,7 @@ icon:weixin phone number
 
 [icon:github https://github.com/hsnsj](https://github.com/hua1995116)
 
-![test](pic.jpg=10*10)
+
 
 :::
 
