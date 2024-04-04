@@ -15,6 +15,7 @@ icon:weixin phone number
 [icon:github https://github.com/hsnsj](https://github.com/hua1995116)
 
 
+
 :::
 
 ## Backboard education
@@ -69,9 +70,10 @@ Served as a class representative and won many honorary titles
  1.The object is modeled, the mathematical formula is derived and verified in practice.
  2.Scour the data to extract useful data, and can be easily simulated.
  
-
+![知乎头像-w70](pic.jpg=20*100)
 
 
 ## Hobby
 - **Wide range of hobbies**：Like to watch other people's hobbies and learn from them.
+
 
