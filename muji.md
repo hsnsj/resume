@@ -1,9 +1,9 @@
 # X resume
-
+![test](pic.jpg=5*5)
 ::: left
 
 icon:info 男/2003.10
-![test](pic.jpg=10*10)
+
 icon:weixin phone number
 
 
