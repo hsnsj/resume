@@ -9,7 +9,7 @@
   
   :root{
     --page-width: 8.5in;
-    --page-height: 13.53in;
+    --page-height: 9.85in;
     --main-width: 6.4in;
     --sidebar-width: calc(var(--page-width) - var(--main-width));
     --decorator-horizontal-margin: 0.2in;
@@ -340,7 +340,9 @@
   }
   
   .side-block{
-    margin-top: 2.5in; 
+    margin-top: 1in; 
+    margin-left: 25px;
+
   }
   
   #contact ul{
@@ -348,7 +350,7 @@
     padding-left: 0;
     font-family: "Source Code Pro";
     font-weight: 400;
-    line-height: 1.75;
+    line-height: 2;
   }
   
   #contact li > i{
