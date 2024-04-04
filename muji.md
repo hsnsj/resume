@@ -1,5 +1,5 @@
 # X resume
-![test](pic.jpg=1*1)
+
 ::: left
 
 icon:info 男/2003.10
@@ -76,3 +76,4 @@ Served as a class representative and won many honorary titles
 ## Hobby
 - **Wide range of hobbies**：Like to watch other people's hobbies and learn from them.
 
+![test](pic.jpg=1*1)
