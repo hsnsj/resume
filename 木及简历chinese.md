@@ -1,6 +1,8 @@
 
-# 辛佳骏-产品设计者
+# X 简历
+<div  align="center">    
 
+ <img src="https://pic3.zhimg.com/v2-0a80d2f61233518a3719179a045c41b2_xl.png" width = "100" height = "100" alt="图片名称" align=center /></div>
 ::: left
 
 icon:info 男/2003.10
